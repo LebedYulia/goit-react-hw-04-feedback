@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-02-feedback",
+  "name": "goit-react-hw-04-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LebedYulia.github.io/goit-react-hw-02-feedback/",
+  "homepage": "https://LebedYulia.github.io/goit-react-hw-04-feedback/",
   "dependencies": {
     "@emotion/styled": "^11.10.4",
     "@testing-library/jest-dom": "^5.16.3",
